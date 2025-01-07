@@ -14,8 +14,6 @@
 ## *Contact with me*
 
 [<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30"/>][linkedin]
-[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="30"/>][instagram]
-[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" width="30"/>][facebook]
 <br />
 #### drop a 📧 mail on :	gvm.hasitha5@gmail.com
 
