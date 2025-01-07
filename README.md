@@ -19,7 +19,7 @@
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-[linkedin]:https://www.linkedin.com/in/chaitanya-ganesuni-1aa37a18a/
+[linkedin]:https://www.linkedin.com/in/hasithagandham/
 
 
 <h2 align="center">Languages and Tools:</h2>
