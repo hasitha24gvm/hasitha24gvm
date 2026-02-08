@@ -2,7 +2,7 @@
 
 ## 🌟 Results-Oriented Data Science Professional  
 **Location:** Bangalore, India  
-**Email:** [gvm.hasitha5@gmail.com](mailto:gvm.hasitha5@gmail.com)  
+**Email:** [gandhamhasitha24@gmail.com](mailto:gandhamhasitha24@gmail.com)  
 **LinkedIn:** [linkedin.com/in/hasithagandham](https://linkedin.com/in/hasithagandham)  
 
 ---
