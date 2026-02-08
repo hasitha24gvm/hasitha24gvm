@@ -60,5 +60,5 @@ I'm a passionate Data Science professional with a strong background in Python, S
 ---
 
 ## 🌍 Connect with Me
-- **Email:** [gvm.hasitha5@gmail.com](mailto:gvm.hasitha5@gmail.com)
+- **Email:** [gandhamhasitha24@gmail.com](mailto:gandhamhasitha24@gmail.com)
 - **LinkedIn:** [linkedin.com/in/hasithagandham](https://linkedin.com/in/hasithagandham)
